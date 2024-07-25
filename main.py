@@ -1,3 +1,7 @@
+def another_function():
+    pass
+
+
 def calculate():
     pass
 
